@@ -22,10 +22,12 @@ ETC
 ※ Please refer to the [documentations](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-official-ReVanced-Manager-(Android)) for a guide to building ReVanced Extended using the official ReVanced Manager.
   
 **App Versions:**  
-Music (arm64-v8a): 5.34.51  
-downloaded from: [APKMirror - Music (arm64-v8a)](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-5-34-51-release/youtube-music-5-34-51-android-apk-download/)  
 YouTube: 17.45.36  
 downloaded from: [APKMirror - YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-45-36-release/youtube-17-45-36-android-apk-download/)  
+Music (arm64-v8a): 5.34.51  
+downloaded from: [APKMirror - Music (arm64-v8a)](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-5-34-51-release/youtube-music-5-34-51-android-apk-download/)  
+Twitter: 9.65.6-release.0  
+downloaded from: [APKMirror - Twitter](https://www.apkmirror.com/apk/twitter-inc/twitter/twitter-9-65-6-release-0-release/twitter-9-65-6-release-0-android-apk-download/)  
 
 Install [Vanced Microg](https://github.com/inotia00/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
